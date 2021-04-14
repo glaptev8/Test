@@ -10,5 +10,3 @@ create unique index PRODUCT_ID_UINDEX
 
 create unique index SYS_IDX_SYS_PK_10092_10093
 	on PRODUCT (ID);
-
-
